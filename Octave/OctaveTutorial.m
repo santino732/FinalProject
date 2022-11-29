@@ -20,6 +20,8 @@ hist(a,50)
 title('HISTOGRAM')
 grid minor
 
+#TUTORIAL FOLLOWED : https://www.youtube.com/watch?v=B29EftnPbWo (Octave Tutorial #4 - Plotting Data)
+
 
 x = [1 2 3 2 1]
 y = x;
