@@ -11,7 +11,7 @@ SalterSmoother -> Let's write a program, it will plot a function,salted data, sm
                   For smoothing, I'd like you to use apaches stats library.
                   Write a mini reports showing results. 2 pages (pictures included).
 
-PokerSimulation -> 
+PokerSimulation -> Write a method that can reshuffle deck and re-deal cards, 100,000 times.  Collect results and determine using this Monte Carlo simulation.
 
 StatsLibrary -> Turn in a copy of your stats library.  Variance solver, STD solver, Permuations Combinations solver.  Mean median mode.If possible, do as                   many stats library formula solves as you can.
 
